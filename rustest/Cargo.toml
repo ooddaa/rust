@@ -1,0 +1,7 @@
+[package]
+name = "rustest"
+version = "0.1.0"
+authors = ["Dima <dv@kappacoding.co.uk>"]
+edition = "2018"
+
+[dependencies]
